@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentoTrack_API_Project", "TalentoTrack_API_Project\TalentoTrack_API_Project.csproj", "{5FD2003D-E1AF-4DA5-A872-9D9DAC3189F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentoTrack_Common", "TalentoTrack_Common\TalentoTrack_Common.csproj", "{59D61F79-41E6-4D35-946D-4ECAD8E338A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentoTrack_Services", "TalentoTrack_Services\TalentoTrack_Services.csproj", "{E2A371C8-818A-497C-AC66-798BFE519B70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentoTrack_Dao", "TalentoTrack_Dao\TalentoTrack_Dao.csproj", "{1332C41F-531D-464A-AA9B-1EAFB571C21D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD2003D-E1AF-4DA5-A872-9D9DAC3189F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD2003D-E1AF-4DA5-A872-9D9DAC3189F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD2003D-E1AF-4DA5-A872-9D9DAC3189F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD2003D-E1AF-4DA5-A872-9D9DAC3189F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59D61F79-41E6-4D35-946D-4ECAD8E338A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D61F79-41E6-4D35-946D-4ECAD8E338A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D61F79-41E6-4D35-946D-4ECAD8E338A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D61F79-41E6-4D35-946D-4ECAD8E338A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A371C8-818A-497C-AC66-798BFE519B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A371C8-818A-497C-AC66-798BFE519B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A371C8-818A-497C-AC66-798BFE519B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A371C8-818A-497C-AC66-798BFE519B70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1332C41F-531D-464A-AA9B-1EAFB571C21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1332C41F-531D-464A-AA9B-1EAFB571C21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1332C41F-531D-464A-AA9B-1EAFB571C21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1332C41F-531D-464A-AA9B-1EAFB571C21D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3696AEE-AB59-4A80-A5E3-3367957600A2}
+	EndGlobalSection
+EndGlobal
